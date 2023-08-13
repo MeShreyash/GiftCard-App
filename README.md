@@ -1,16 +1,10 @@
-# giftcard_app
+# GIFT CARD APP
 
-A new Flutter project.
+Created a Gift card app which can be used to created personalised gift cards and send them to your loved ones.
 
-## Getting Started
+## About Project
 
-This project is a starting point for a Flutter application.
+We have used Riverpod state-management to make the personalised changes to the app. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Youtube Link
+Link - https://youtu.be/2TPJ9RmoVaw
