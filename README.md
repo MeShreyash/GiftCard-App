@@ -7,4 +7,4 @@ Created a Gift card app which can be used to created personalised gift cards and
 We have used Riverpod state-management to make the personalised changes to the app. 
 
 ## Youtube Link
-Link - https://youtu.be/2TPJ9RmoVaw
+Project Link - https://youtu.be/2TPJ9RmoVaw
